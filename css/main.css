@@ -1,0 +1,64 @@
+/*
+ * Dit is de custom style sheet van jouw website
+ *
+ */
+
+.currentpage {
+	background-color: #557880;
+}
+.currentnav{
+	width:100%;
+	background-color: #1f83a9;
+}
+.desc {
+
+	background-color: #fff;
+	border: 1px solid #000;
+	position: absolute;
+	margin-left: 100px;
+	margin-top: -20px;
+	width: 200px;
+		
+}
+#nav ul{
+	padding-left: 0 !important;
+}
+#nav ul li{
+	background-color: #1fa4cc;
+	list-style-type:none;
+}
+footer{
+	background-color: brown;
+}
+#newsNav{
+	background-color: #1fa4cc;
+}
+#navPrevious{
+
+}
+#navNumbers{
+
+}
+#navNext{
+
+}
+
+
+header {
+	background-color: #1fa4cc;
+}
+header nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+header nav ul li {
+	border-bottom: 2px solid #1f83a9;
+}
+header nav ul li a{
+	text-decoration:none;
+	display:block;
+	padding:0 20px;
+	line-height:20px;
+	color:#fff;
+}
